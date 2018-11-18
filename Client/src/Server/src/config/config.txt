@@ -1,5 +1,0 @@
-driver = com.microsoft.sqlserver.jdbc.SQLServerDriver
-url = jdbc:sqlserver://localhost:1433;databaseName = Water
-user = sa
-password = 1
-serverIP=127.0.0.1
